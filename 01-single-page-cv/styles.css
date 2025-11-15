@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: grey;
+    justify-content: center;
+    display: flex;
+    font-weight:normal;
+}
+
+.a4-sheet {
+    background-color: white;
+    width: 750px;
+    padding: 100px;
+    margin-top:30px;
+    margin-bottom: 30px;
+    justify-content: center;
+    border-style: solid;
+    border-width: 3px;
+}
+
+hr {
+    width: 80%;
+    border: 1.5px solid black;
+    float: left;
+}
+
+h1 {
+    font-weight:normal;
+}
+
+h2 {
+    color: green;
+    font-size: 18px;
+    font-weight:normal;
+}
+
+h3 {
+    color: #7FC1F0;
+    font-size: 18px;
+    font-weight:normal;
+}
+
+body img {
+    height: 25px;
+    margin: 10px;
+}
