@@ -1,5 +1,4 @@
-# Roadmap.sh
-## *Project 1* - Single Page CV
+# Roadmap.sh - Project 1 - Single Page CV
 
 ### [My assignment](https://andrewgunkel.github.io/roadmap.sh-projects/01-single-page-cv/)
 
