@@ -17,10 +17,11 @@ body {
     border-width: 3px;
 }
 
-hr {
-    width: 80%;
-    border: 1.5px solid black;
-    float: left;
+.line {
+    height: 2px;
+    background: black;
+   /* margin: 2rem 0; */
+    width: 70%;
 }
 
 h1 {
@@ -42,4 +43,8 @@ h3 {
 body img {
     height: 25px;
     margin: 10px;
+}
+
+address {
+    font-style: normal;
 }
