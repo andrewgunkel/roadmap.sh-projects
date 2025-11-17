@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 271.35 34.78">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 6.32px;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        font-family: Arial-Black, 'Arial Black';
+        font-size: 21px;
+        font-weight: 800;
+      }
+
+      .cls-5 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-6 {
+        letter-spacing: .02em;
+      }
+    </style>
+  </defs>
+  <path class="cls-3" d="M37.94,12.65c0-3.5,2.83-6.32,6.32-6.32s6.32,2.83,6.32,6.32M82.2,6.32h3.16M6.32,6.32h-3.16M6.32,6.32c0,18.97,3.16,25.29,15.81,25.29s15.81-6.32,15.81-25.29c0,0-3.16-3.16-15.81-3.16s-15.81,3.16-15.81,3.16ZM82.2,6.32c0,18.97-3.16,25.29-15.81,25.29s-15.81-6.32-15.81-25.29c0,0,3.16-3.16,15.81-3.16s15.81,3.16,15.81,3.16Z"/>
+  <text class="cls-4" transform="translate(96.72 23.18)"><tspan x="0" y="0">And</tspan><tspan class="cls-6" x="44.35" y="0">r</tspan><tspan class="cls-1" x="54.01" y="0">ew Gun</tspan><tspan class="cls-5" x="140.35" y="0">k</tspan><tspan class="cls-2" x="153.63" y="0">el</tspan></text>
+</svg>
