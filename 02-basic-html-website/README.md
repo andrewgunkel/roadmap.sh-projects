@@ -1,6 +1,6 @@
 # 02: Basic HTML Website
 
-### >> [Link to my submission](https://andrewgunkel.github.io/roadmap.sh-projects/01-single-page-cv/) <<
+### >> [Link to my submission](https://andrewgunkel.github.io/roadmap.sh-projects/02-basic-html-website/) <<
 
 Don't forget to [give it a like on Roadmap.sh](https://roadmap.sh/projects/single-page-cv/solutions?u=690e0d4fce70eef65b5bac3a)! 
 
@@ -10,9 +10,17 @@ Read the assignment here: https://roadmap.sh/projects/basic-html-website
 
 ## Task: 
 
+Build a simple HTML website with multiple pages.
+
 **Key requirements:**
 
-- [x] 
+- [x] Semantically correct HTML structure.
+
+- [x] Multiple pages with a navigation bar.
+
+- [x] SEO meta tags in the head of each page.
+
+- [x] Contact page should have a form with fields like name, email, message etc.
 
 ## Languages used:
 
@@ -21,4 +29,5 @@ Read the assignment here: https://roadmap.sh/projects/basic-html-website
 
 ## Things I learned
 
-- Item 1
+- Linking multiple pages
+- HTML Form structure
